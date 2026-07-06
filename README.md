@@ -1,6 +1,5 @@
 # Book-keeping-using-AI
 Income statement, Balance sheet ,cashflow 
 SkyConnect_Bookkeeping.xlsx
-https://docs.google.com/spreadsheets/d/1DVkJcXYkQkS06jgh0i3vhxOfPNbHWYlmYbI6LHJ2Ylw/edit?gid=1184306442#gid=1184306442
-https://docs.google.com/spreadsheets/d/1DVkJcXYkQkS06jgh0i3vhxOfPNbHWYlmYbI6LHJ2Ylw/edit?gid=1465184497#gid=1465184497 dynamic calculator
+https://docs.google.com/spreadsheets/d/1gh-L2jdTrbB4U3DX8ioyKDW9ZmepOo3O047h7AgSQdc/edit?gid=1766109365#gid=1766109365
 
